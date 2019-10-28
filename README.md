@@ -1,5 +1,5 @@
 ## Screenshot Script dan Jawaban dari Test
 
-![Getting Started](Script.jpg)
+![alt text](https://raw.githubusercontent.com/andrifa/Test-GIT-Indonesia/master/Script.JPG)
 
-![Getting Started](Jawaban.jpg)
+![alt text](https://raw.githubusercontent.com/andrifa/Test-GIT-Indonesia/master/Jawaban.JPG)
